@@ -1,7 +1,7 @@
-# Maven-Pizza-Challenge
+# Swiggy Order Analysis
 About this project
 PROJECT SUMMARY
-This project required the analysis of one years worth of transactional data for a pizza restaurant in New York. The main objective was to find operational opportunities to increase efficiency and drive more sales.
+This project required the analysis of one years worth of transactional data for a pizza restaurant in Mumbai. The main objective was to find operational opportunities to increase efficiency and drive more sales.
 
 Skills Used:
 SQL to analyze the data and Tableau for visualization
